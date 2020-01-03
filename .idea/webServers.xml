@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="83f709d6-b957-4d55-972f-b6c59fb22df8" name="fundamentals" url="https://bootcamp-coders.cnm.edu/~dgutierrez117/fundamentals">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/dgutierrez117/public_html/fundamentals" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
